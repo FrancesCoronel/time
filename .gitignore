@@ -33,3 +33,7 @@ pip-log.txt
 venv
 *.pyc
 build
+
+# Key
+
+TimeStartupSystemsAssignment.pem

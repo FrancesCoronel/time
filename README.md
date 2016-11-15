@@ -32,3 +32,16 @@ $ export FLASK_APP=hello.py
 $ flask run
  * Running on http://127.0.0.1:5000/
 ```
+
+---
+
+## STEPS 💩
+
+```bash
+chmod 400 TimeStartupSystemsAssignment.pem
+
+ssh -i "TimeStartupSystemsAssignment.pem" ubuntu@ec2-35-162-71-247.us-west-2.compute.amazonaws.com
+
+
+
+```
